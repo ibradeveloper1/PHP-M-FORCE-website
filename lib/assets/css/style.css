@@ -1,0 +1,8 @@
+/*basic CSS for the login and registration forms*/
+
+.loginpage .my-form button{width:100%}
+.loginpage .container .my-form{width:100%;margin-left:auto;margin-right:auto;padding-top:10%}
+@media only screen and (max-width:560px){.loginpage .container{margin-top:25%}
+}.loginpage .container .my-links{padding-top:20px;line-height:2em}
+.loginpage .container .my-links a{color:#413e66;text-decoration:none;font-size:15px;padding-bottom:30px}
+.loginpage .container .my-links a:hover{font-size:16px;color:blue}
